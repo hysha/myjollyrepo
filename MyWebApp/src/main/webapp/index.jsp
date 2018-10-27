@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Rice and Stew!</h2>
+<h2>Rice and Stew/Efo!</h2>
 </body>
 </html>
